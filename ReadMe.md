@@ -1,5 +1,6 @@
 # 💫 About Me:
-##Hi, I'm Faiz
+<h1 align="center">Hi, I'm Faiz </h1>
+
 I am a 3rd year engineering student.
 
 ## 🌐 Socials:
